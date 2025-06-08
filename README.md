@@ -74,11 +74,11 @@ java GerenciadorDeAlgoritmos
 ## 📊 Exemplo de Saída
 ```
 Gerenciador FIFO
-M1  1    1    1    1    4    4    4    
-M2      2    2    2    2    2    2    
-M3         3    3    3    3    3    
-Acertos: 2
-Erros: 5
+M1  1    1    1    1    1    1    1    1    1    1    1    1
+M2       2    2    2    2    2    2    2    2    2    2    2
+M3            3    3    3    3    3    3    3    3    3    3
+Acertos: 9
+Erros: 3
 ```
 
 
