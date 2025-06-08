@@ -60,7 +60,7 @@ java GerenciadorDeAlgoritmos
 ## 🖥️ Interface do Programa
 ```
 1 - Inserir sequência de processos
-2 - Atualizar unidades de memória (3-50)
+2 - Atualizar unidades de memória 
 3 - Gerenciar com FIFO
 4 - Gerenciar com LFU
 5 - Gerenciar com MFU
