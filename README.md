@@ -87,4 +87,4 @@ Erros: 5
 Este projeto é de uso **livre**, inclusive para fins comerciais ou acadêmicos, **desde que seja feita a devida atribuição ao autor**.
 
 > Autor: **Fernando Cardoso Wanderley**  
-> Referência: Projeto Gerenciador de Algoritmos de Substituição de Páginas
+> Referência: **Projeto Gerenciador de Algoritmos de Substituição de Páginas**
