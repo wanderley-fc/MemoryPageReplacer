@@ -52,8 +52,8 @@ cd MemoryPageReplacer
 
 2. Compile e execute:
 ```bash
-javac MemoryPageReplacer.java
-java MemoryPageReplacer
+javac GerenciadorDeAlgoritmos.java
+java GerenciadorDeAlgoritmos
 ```
 
 
